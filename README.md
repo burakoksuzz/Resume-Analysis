@@ -1,44 +1,39 @@
-# Resume-Analysis
-Resume Analyzer
-Resume Analyzer
+# 📄 Resume Analyzer 📊
+
+![Resume Analyzer](https://r.resimlink.com/BKHJ4.png)
 
 Bu proje, iş açıklaması ve özgeçmiş metinlerini kullanarak eşleşme yüzdesini analiz eden bir araçtır. Kullanıcıdan alınan iş açıklaması ve özgeçmiş dosyaları üzerinde çalışır ve eşleşme yüzdesini, eşleşme sebebini, anahtar kelimeleri ve aday bilgilerini çıktı olarak sunar. Ayrıca, eşleşme yüzdesini görsel olarak sunar.
 
-Nasıl Kullanılır?
-Anahtar API Anahtarınızı Ayarlayın:
-Kodun çalışması için bir OpenAI API anahtarı gereklidir. Anahtarınızı key değişkenine atayarak kodun başlangıcında belirtmelisiniz.
+## Nasıl Kullanılır? 🚀
 
-Gradio Arayüzünü Kullanarak Analiz Yapın:
-Gradio arayüzünü başlatmak için kodu çalıştırın. Arayüz, iş açıklaması ve özgeçmiş dosyalarını yüklemenizi sağlayacak bir dosya yükleme alanı sunar. Analiz butonuna tıkladıktan sonra, eşleşme yüzdesi, sebep, anahtar kelimeler ve aday bilgileri görüntülenecektir.
+1. **Anahtar API Anahtarınızı Ayarlayın:**
+   Kodun çalışması için bir OpenAI API anahtarı gereklidir. Anahtarınızı `key` değişkenine atayarak kodun başlangıcında belirtmelisiniz.
 
-Gereksinimler
-Python 3.x
-PyPDF2
-OpenAI
-Plotly
-Gradio
-Kurulum
-Depoyu klonlayın:
+2. **Gradio Arayüzünü Kullanarak Analiz Yapın:**
+   Gradio arayüzünü başlatmak için kodu çalıştırın. Arayüz, iş açıklaması ve özgeçmiş dosyalarını yüklemenizi sağlayacak bir dosya yükleme alanı sunar. Analiz butonuna tıkladıktan sonra, eşleşme yüzdesi, sebep, anahtar kelimeler ve aday bilgileri görüntülenecektir.
 
-bash
-Copy code
-git clone https://github.com/kullanıcı_adı/Resume-Analyzer.git
-Proje dizinine gidin:
+## Gereksinimler 🛠️
 
-bash
-Copy code
-cd Resume-Analyzer
-Gerekli kütüphaneleri yükleyin:
+- Python 3.x
+- PyPDF2
+- OpenAI
+- Plotly
+- Gradio
 
-bash
-Copy code
-pip install -r requirements.txt
-Anahtar API anahtarınızı ekleyin:
+## Kurulum 📦
 
-Kodun başlangıcındaki key değişkenine OpenAI API anahtarınızı ekleyin.
+1. Depoyu klonlayın:
 
-Kodu çalıştırın:
+   ```bash
+   git clone https://github.com/kullanıcı_adı/Resume-Analyzer.git
 
-bash
-Copy code
-python main.py
+  2.Proje dizinine gidin:
+  ```bash
+    cd Resume-Analyzer
+       
+  3.Gerekli kütüphaneleri yükleyin:
+
+   ```bash
+      pip install -r requirements.txt
+
+
