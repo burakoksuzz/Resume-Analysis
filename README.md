@@ -25,7 +25,7 @@ Bu proje, iş açıklaması ve özgeçmiş metinlerini kullanarak eşleşme yüz
 1. Depoyu klonlayın:
 
    ```bash
-   git clone https://github.com/kullanıcı_adı/Resume-Analyzer.git
+   git clone https://github.com/burakoksuzz/Resume-Analyzer.git
 
   2.Proje dizinine gidin:
   ```bash
