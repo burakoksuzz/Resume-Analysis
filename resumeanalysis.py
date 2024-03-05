@@ -129,7 +129,7 @@ Information Candidate: [Matching from {resume} extract this information
 
 # Ana kod
 if __name__ == "__main__":
-    key = "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"
+    key = "OPEN Aİ APİ KEY"
     analyzer = ResumeAnalyzer(key)
     analyzer.gradio_interface()
 
