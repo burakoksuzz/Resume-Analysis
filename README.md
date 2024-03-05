@@ -1,6 +1,7 @@
 # 📄 Resume Analyzer 📊
 
-![Resume Analyzer](https://r.resimlink.com/BKHJ4.png)
+![Resume Analyzer](https://r.resimlink.com/aJuC4Vs75k.jpg)
+![Resume Analyzer](https://r.resimlink.com/5osbrIS0mu.jpg)
 
 Bu proje, iş açıklaması ve özgeçmiş metinlerini kullanarak eşleşme yüzdesini analiz eden bir araçtır. Kullanıcıdan alınan iş açıklaması ve özgeçmiş dosyaları üzerinde çalışır ve eşleşme yüzdesini, eşleşme sebebini, anahtar kelimeleri ve aday bilgilerini çıktı olarak sunar. Ayrıca, eşleşme yüzdesini görsel olarak sunar.
 
